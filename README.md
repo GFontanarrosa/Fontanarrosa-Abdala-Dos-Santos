@@ -7,6 +7,7 @@ output:
   html_document: default
 ---
 
+
 Codes
 1.Script for complete enumeration of the theoretical morphospace
 
@@ -657,5 +658,4 @@ dibujomano <- function(flafal, color = "white") {
 ```{r}
 dibujomano(c(2,3,4,5,3))
 ```
-
 
